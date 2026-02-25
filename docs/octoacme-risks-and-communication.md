@@ -40,3 +40,4 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+- The **Security Lead** is responsible for threat modeling, security risk assessment, and incident response coordination; see [Roles and Personas](octoacme-roles-and-personas.md) for full responsibilities
