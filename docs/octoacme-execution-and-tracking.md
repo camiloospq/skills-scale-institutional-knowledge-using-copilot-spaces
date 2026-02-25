@@ -27,6 +27,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
 - Use dashboards for key signals (errors, latency, usage)
+- The **Data Analyst/Scientist** owns metric definitions, dashboards, and post-release impact analysis; see [Roles and Personas](octoacme-roles-and-personas.md) for full responsibilities
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
